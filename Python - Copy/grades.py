@@ -28,14 +28,19 @@ sum(kristen_grades)
 len(kristen_grades)
 sum(kristen_grades)/len(kristen_grades)
 print(sum(kristen_grades)/ len(kristen_grades))
+
 sum(clarisse_grades)
 len(clarisse_grades)
 sum(clarisse_grades)/len(clarisse_grades)
 print(sum(clarisse_grades))/len(clarisse_grades)
+
+
 sum(sapna_grades)
 len(sapna_grades)
 sum(sapna_grades)/ len(sapna_grades)
 print(sum(sapna_grades))/ len(sapna_grades)
+
+
 Averages = [89,90,90]
 sum(Averages)
 len(Averages)
