@@ -1,0 +1,19 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <div>
+      <h4>Display your array</h4>
+      <span> Numbers:</span>
+      <span id="Numbers"></span>
+      <br/><br/>
+
+      <input id="numberInput" placeholder="Enter your desiredn number here"></input>
+      <button id="getNumberBtn" onclick="getNumbers()">Search</button>
+      <br/><br/>
+	</div>
+    <script type="text/javascript" src="binary_search.js"></script>
+  </body>
+</html>
+
+    
